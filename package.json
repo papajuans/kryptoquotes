@@ -16,6 +16,7 @@
     "url": "https://github.com/papajuans/kryptoquotes/issues"
   },
   "dependencies": {
-    "hapi": "~2.5.0"
+    "hapi": "~2.5.0",
+    "joi": "~2.7.0"
   }
 }
